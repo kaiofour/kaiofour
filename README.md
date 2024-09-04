@@ -10,14 +10,12 @@
 
 # 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=kaiofour&icon=5&color=10)](https://visitcount.itsvg.in)<br/>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="Top Langs" /> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiofour&theme=dark&hide_border=false)" alt="Top Langs" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="300" height="150" /> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiofour&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="300" height="150" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" width="250" height="125" />
 </p>
 
 
