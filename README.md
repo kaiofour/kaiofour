@@ -9,9 +9,10 @@
 
 # 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=kaiofour&icon=5&color=10)](https://visitcount.itsvg.in)<br/>
-![](https://github-readme-stats.vercel.app/api?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaiofour&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaiofour&theme=dark&hide_border=false)
+
 
 
 
