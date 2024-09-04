@@ -7,21 +7,11 @@
 ### Other Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 # 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=kaiofour&icon=5&color=10)](https://visitcount.itsvg.in)<br/>
+[![](https://visitcount.itsvg.in/api?id=kaiofour&icon=5&color=10)](https://visitcount.itsvg.in)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="300" height="150" /> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiofour&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="300" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="420" height="180" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" width="320" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiofour&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="420" height="180" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" width="250" height="125" />
-</p>
-
-
-
-
----
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
