@@ -11,7 +11,7 @@
 [![](https://visitcount.itsvg.in/api?id=kaiofour&icon=5&color=10)](https://visitcount.itsvg.in)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="420" height="180" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" width="320" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiofour&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="420" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" width="330" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiofour&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="450" height="180" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
