@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Russel:<br>🤝 Team Player<br>🌱 Full-Time IT Student<br>⚡ Outdoorsy Person
+🌱 Full-Time IT Student<br>⚡ Outdoor Person
 
 
 # 💻 Languages:
