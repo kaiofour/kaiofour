@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌱 Full-Time IT Student<br>⚡ Outdoor Person
+  -BSIT 3rd Year
+  -Bad at Clash Royale
+  -Doomscroller
+  -I need friends...
+  
 
 
 # 💻 Languages:
