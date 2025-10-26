@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT 3rd Year, Bad at Clash Royale, Doomscroller (I need friends...)
+I like caffeine hehe
 
 
 # Lang:
