@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like caffeine hehe
+powered by caffeine, running on 200 OKs. all rights reserved. server uptime may vary.
 
 
 # Langs:
