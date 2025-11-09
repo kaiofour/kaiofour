@@ -11,7 +11,7 @@ powered by caffeine, running on 200 OKs. all rights reserved. server uptime may 
 
 
 # Database and ORM:
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Others:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -23,12 +23,6 @@ powered by caffeine, running on 200 OKs. all rights reserved. server uptime may 
     src="https://github-readme-stats.vercel.app/api?username=kaiofour&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" 
     alt="GitHub Stats" 
     width="38%" 
-    height="180px" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofour&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-    alt="Top Languages" 
-    width="30%" 
     height="180px" 
   />
 </div>
